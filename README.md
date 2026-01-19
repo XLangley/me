@@ -5,7 +5,25 @@
   Building modern, scalable, and maintainable web applications
 </p>
 
----
+<div align="center">
+  <a href="https://www.twitch.tv/OneLangley" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch" />
+  </a>
+
+  <a href="mailto:agaldames.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/alfredogaldames" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+
+  <a href="https://portfolio-agaldames.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Web&logo=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="website" />
+  </a>
+</div>
+
+
 
 ## About Me
 
